@@ -1,0 +1,9 @@
+scheme: sftp
+host: americanmominengland.com
+username: ameri340
+password: love!2005
+path: 
+exclude:
+   - .gitignore
+   - dandelion.yml
+   - wp-config.php
